@@ -19,3 +19,11 @@ I am a computer science student with a passion for coding, problem-solving, and 
 - **Web Development:** HTML, CSS
 - **Databases:** IBM Db2 Cloud
 - **Tools:** IntelliJ IDEA, PyCharm, Visual Studio Code, Lucidchart
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/prismic7">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prismic7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
