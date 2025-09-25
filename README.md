@@ -24,8 +24,6 @@ I am a computer science student with a passion for coding, problem-solving, and 
 
 <p align="center">
 <a href="https://github.com/ZyCallado">
-  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=ZyCallado)](https://github.com/anuraghazra/github-readme-stats)"/>
 </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyCallado)](https://github.com/anuraghazra/github-readme-stats)
