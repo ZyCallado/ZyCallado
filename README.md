@@ -23,7 +23,5 @@ I am a computer science student with a passion for coding, problem-solving, and 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ZyCallado">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</a>
 </p>
