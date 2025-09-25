@@ -21,7 +21,4 @@ I am a computer science student with a passion for coding, problem-solving, and 
 - **Tools:** IntelliJ IDEA, PyCharm, Visual Studio Code, Lucidchart
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</p>
