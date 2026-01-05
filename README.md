@@ -19,7 +19,3 @@ I am a computer science student with a passion for coding, problem-solving, and 
 - **Web Development:** HTML, CSS
 - **Databases:** IBM Db2 Cloud
 - **Tools:** IntelliJ IDEA, PyCharm, Visual Studio Code, Lucidchart
-
-### ⚙️ &nbsp;GitHub Analytics
-- ![ZyCallado's Stats](https://github-readme-stats.vercel.app/api?username=ZyCallado&theme=darcula&show_icons=true&hide_border=true&count_private=true)
-- ![ZyCallado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZyCallado&theme=darcula&show_icons=true&hide_border=true&layout=compact)
