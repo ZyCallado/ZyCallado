@@ -15,7 +15,7 @@ I am a computer science student with a passion for coding, problem-solving, and 
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/fca5cd6188f744928f19dfb39be389f4)
 
 ## Skill Sets
-- **Programming Languages:** Java, JavaScript, Python
+- **Programming Languages:** C, Java, JavaScript, PHP, Python, R
 - **Web Development:** HTML, CSS
 - **Databases:** IBM Db2 Cloud
 - **Tools:** IntelliJ IDEA, PyCharm, Visual Studio Code, Lucidchart
