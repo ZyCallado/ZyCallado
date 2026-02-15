@@ -18,4 +18,4 @@ I am a computer science student with a passion for coding, problem-solving, and 
 - **Programming Languages:** C, Java, JavaScript, PHP, Python, R
 - **Web Development:** HTML, CSS
 - **Databases:** IBM Db2 Cloud
-- **Tools:** IntelliJ IDEA, PyCharm, Visual Studio Code, Lucidchart
+- **Tools:** Eclipse, IntelliJ IDEA, PyCharm, Visual Studio Code, Lucidchart
