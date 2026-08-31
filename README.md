@@ -37,7 +37,7 @@ I'm currently exploring different areas of software development, improving my pr
 
 ## 🛠️ Technologies I'm Learning
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,php,python,idea,eclipse,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,php,python,idea,eclipse,github,vscode,git)](https://skillicons.dev)
 
 > *My tech stack is still growing — just like my collection of unfinished projects.* 😅
 
